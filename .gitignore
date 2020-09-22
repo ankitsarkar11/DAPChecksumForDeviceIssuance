@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+.idea
+DAP-Checksum-For-Device-Issuance.iml
