@@ -1,4 +1,8 @@
 # Project exclude paths
-/target/
+target
 .idea
 DAP-Checksum-For-Device-Issuance.iml
+.classpath
+.project
+.factorypath
+.settings
