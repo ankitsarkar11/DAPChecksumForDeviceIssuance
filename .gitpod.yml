@@ -3,3 +3,4 @@ image:
 
 tasks:
   - init: mvn install -DskipTests=false
+    command: mvn verify
