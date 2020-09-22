@@ -1,4 +1,5 @@
 {
     "editor.autoSave": "on",
-    "java.configuration.checkProjectSettingsExclusions": true
+    "java.configuration.checkProjectSettingsExclusions": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
